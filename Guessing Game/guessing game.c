@@ -44,6 +44,9 @@ int main()
     printf("**************************************************\n");
     printf("Answer was: %d\n", answer);
     printf("Guesses took: %d\n", attempt);
-    printf("**************************************************");
+    printf("**************************************************\n");
+    printf("Press Enter to exit the program...");
+    getchar();
+    getchar();
     return 0;
 }
