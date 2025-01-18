@@ -1,1 +1,1 @@
-You can see some begginer projects i made while learning c programming :D
+Here is some very basic c programs i made while learning c programming.
