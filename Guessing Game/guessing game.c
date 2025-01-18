@@ -47,6 +47,5 @@ int main()
     printf("**************************************************\n");
     printf("Press Enter to exit the program...");
     getchar();
-    getchar();
     return 0;
 }
