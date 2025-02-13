@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int op, n1, n2, sum;
+    float op, n1, n2, sum;
     cout << "Welcome to Calculator program!\n";
     cout << " Select what do you want to do: 1) Addition 2)Substraction 3)Multiplication 4) Division 5) Modulus \n";
     cin >> op;
